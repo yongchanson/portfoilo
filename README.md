@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: syc9430@gmail.com
-- 깃헙: https://github.com/sonyongchan
+- 깃헙: https://github.com/yongchanson
 
 </br>
 
